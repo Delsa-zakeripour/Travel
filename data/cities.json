@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "35f1",
+      "cityName": "Washington",
+      "countryName": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-09-07T07:39:13.880Z",
+      "notes": "",
+      "position": {
+        "lat": "38.976492485539424",
+        "lng": "-77.08007812500001"
+      }
+    },
+    {
+      "id": "f657",
+      "cityName": "Ottawa",
+      "countryName": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-09-07T14:08:26.157Z",
+      "notes": "",
+      "position": {
+        "lat": "45.42929873257377",
+        "lng": "-75.69030761718751"
+      }
+    },
+    {
+      "id": "c970",
+      "cityName": "Victoria de Durango",
+      "countryName": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-10-26T11:27:09.833Z",
+      "notes": "",
+      "position": {
+        "lat": "24.206889622398023",
+        "lng": "-104.58984375000001"
+      }
+    },
+    {
+      "id": "d6e8",
+      "cityName": "Amsterdam",
+      "countryName": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-12-07T07:45:30.795Z",
+      "notes": "best city in the world\n",
+      "position": {
+        "lat": "52.392840844095375",
+        "lng": "4.8219467778131975"
+      }
+    }
+  ]
+}
